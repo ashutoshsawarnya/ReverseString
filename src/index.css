@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding:0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.mydiv{
+  text-align: center;
+  margin: 0 auto; 
+width:500px;
+}
+
+.mytext{
+  width:40px;
+}
